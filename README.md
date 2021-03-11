@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 To reach me out - just send me an email: eugenyi.shalaev@gmail.com 😊
-- ⚡ Did you know that a single pilots helmet on the new F-35 fighter costs $400,000?✈ Instead of helmet, you can pay this money to me and your company will fly much higher then every F-35 😉
+- ⚡ Did you know that a single pilots helmet on the new F-35 fighter costs $400,000?✈ Instead of helmet, you can pay this money to me and your company will fly much higher then any F-35 😉
