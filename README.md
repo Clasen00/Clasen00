@@ -1,7 +1,8 @@
 ### Hello there 👋
 
 - My article about microfrontends - [https://habr.com/ru/post/585912/](https://habr.com/ru/post/585912/) (RUS)
-- 🔭 I’m currently working on a highly optimized frontend (react + redux), which is the best online medicine service in Russia
+- My article about tech analysis and how to write it - [https://habr.com/ru/companies/docdoc/articles/752976/] (RUS)
+- 🔭 I’m currently working on a highly optimized frontend (react + flutter), which is the best online luxure ecommerse service in Russia
 - 🌱 I’m currently learning how to be a more skilled programmer. I spend a lot of time on good programming practices (Donald Knuth "The Art of Computer Programming", for example), algorithms, patterns (Design Patterns: Elements of Reusable Object-Oriented Software), Eloquent JavaScript and so on.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
